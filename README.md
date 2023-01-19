@@ -22,4 +22,4 @@ The visualised output of my second ggplot in the project:
 
 There is 1 project file (R) in this repository.
 
-The diamonds dataset comes in-built with the R programming language, so I have not provided it here.
+The Diamonds dataset comes in-built with the ggplot2 package in R, so I have not provided it here.
