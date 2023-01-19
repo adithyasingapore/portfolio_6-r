@@ -2,7 +2,7 @@ Data analysis and visualisation with ggplot2 of the Diamonds dataset
 
 # Portfolio Project 6 - R - Diamonds dataset ggplot2 visualisation
 
-Welcome to my sixth portfolio project. In this data analysis and visualisation project, I analyse and visualise the Diamonds dataset using the ggplot2 library.
+Welcome to my sixth portfolio project. In this data analysis and visualisation project, I analyse and visualise the Diamonds dataset using the "**ggplot2**" graphing and visualisation library in R.
 
 **Project Guide**
 
