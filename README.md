@@ -16,7 +16,7 @@ The volume of the dataset with 50,000+ entries and the variety of attributes ava
 
 The visualised output of my second ggplot in the project:
 
-![Uploading portfolio_6-r-diamonds_ggplot2_2.jpeg…]()
+![portfolio_6-r-diamonds_ggplot2_2](https://user-images.githubusercontent.com/122973220/213421796-2c4e106c-7bae-4f50-997d-08d49752f938.jpeg)
 
 **Project Files and Data Source Citation**
 
